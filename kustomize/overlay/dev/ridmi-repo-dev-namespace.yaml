@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: ridmi-repo-dev
+  labels:
+    environment-id: env_398d31f2-ff92-4015-8e8f-31003bd37e4d
+    project-id: project_4c3cb601-863d-4d9d-a635-3332228461dc
+    project-name: Ridmi-repo
+    environment-name: dev
+    organization-id: org_9c6310f9-7148-4420-86a4-9570e5c6c03e
