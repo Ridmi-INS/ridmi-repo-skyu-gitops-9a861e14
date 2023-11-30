@@ -3,7 +3,7 @@ kind: Namespace
 metadata:
   name: test-ns
   labels:
-    environment-id: env_40d0035e-e940-4839-94ea-688f33ca5770
+    environment-id: env_37edcd70-8c69-40db-a1fd-38bf8dbe3d1b
     project-id: project_4c3cb601-863d-4d9d-a635-3332228461dc
     project-name: Ridmi-repo
     environment-name: test
