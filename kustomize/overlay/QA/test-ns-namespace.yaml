@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: test-ns
+  labels:
+    environment-id: env_dd520183-e5c5-47a1-825d-4413a327bb1d
+    project-id: project_4c3cb601-863d-4d9d-a635-3332228461dc
+    project-name: Ridmi-repo
+    environment-name: QA
+    organization-id: org_9c6310f9-7148-4420-86a4-9570e5c6c03e
